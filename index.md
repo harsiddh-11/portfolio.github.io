@@ -5,7 +5,7 @@
 ### Predicting Credit Card Defaulter Using Naive-Bayes and XG boost
 
 Flask web app which helps to identify whether the customer is going to default on the credit card payment. It takes a CSV file as input and contains personal information about the customer's previous loan payment history. Prediction done by implementing k-mean clustering and classifer ML algorithm to build effiecient model.
-#### Key note:
+#### Key Takeaway:
 * defining value of k using elbow plot and silhoutte score
 * Performed gridsearchCV for tuning hyperparameter.
 * Model evaulation done on the basis of roc_auc score and accuracy score.
@@ -23,7 +23,7 @@ This model helps in predicting whether the tweet is a disaster or not using NLP 
 Text cleansing and preprocessing and BERT Model. F1 Score is used to measure the prediction evaluation.
 #### Key Takeaway:
 * performing word embedding to simplify text preprocessing and improve vocabulary coverge.
-* Visualizing unigram, bigram and trigram to in=dentify the similarities in pattern of train and test dataset.
+* Visualizing unigram, bigram and trigram to identify the similarities in pattern of train and test dataset.
 <img src="images/dist-1.png?raw=true"/>
 
 
