@@ -8,12 +8,22 @@ Flask web app which helps to identify whether the customer is going to default o
 #### Key note:
 * defining value of k using elbow plot and silhoutte score
 * Performed gridsearchCV for tuning hyperparameter.
+* Model evaulation done on the basis of roc_auc score and accuracy score.
 #### Applied Skills
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Flask-white?logo=flask)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Python)](#)     
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Flask-white?logo=flask)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/matplotlib-seaborn-white)](#)    
+[View code on github](https://github.com/harsiddh-11/creditcarddefaultermodel)
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+
+### NLP Model for Disaster Tweets
+
+This model helps in predicting whether the tweet is a disaster or not using NLP tools and Tensorflow. Performing Exploratory Data Analysis,
+Text cleansing and preprocessing and BERT Model. F1 Score is used to measure the prediction evaluation.
+#### Key Takeaway:
+* performing word embedding to simplify text preprocessing and improve vocabulary coverge.
+* Visualizing unigram, bigram and trigram to in=dentify the similarities in pattern of train and test dataset.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
