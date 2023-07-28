@@ -24,7 +24,7 @@ Text cleansing and preprocessing and BERT Model. F1 Score is used to measure the
 #### Key Takeaway:
 * performing word embedding to simplify text preprocessing and improve vocabulary coverge.
 * Visualizing unigram, bigram and trigram to in=dentify the similarities in pattern of train and test dataset.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/download.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
