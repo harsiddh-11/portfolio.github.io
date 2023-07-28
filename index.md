@@ -9,8 +9,8 @@ Flask web app which helps to identify whether the customer is going to default o
 * defining value of k using elbow plot and silhoutte score
 * Performed gridsearchCV for tuning hyperparameter.
 #### Data Visualisation
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Flask-white?logo=Flask)](#)   
+<img src="images/heatmap_corr.png?raw=true" />
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)    
 
 
 ---
