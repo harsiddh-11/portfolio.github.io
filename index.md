@@ -26,7 +26,7 @@ Text cleansing and preprocessing and BERT Model. F1 Score is used to measure the
 * Visualizing unigram, bigram and trigram to identify the similarities in pattern of train and test dataset.
 #### Applied Skills
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/NLP-white?logo=NLP)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#) [![](https://img.shields.io/badge/matplotlib-seaborn-white)](#)    
-[View code on github](https://github.com/harsiddh-11/creditcarddefaultermodel)
+[View code on github](https://github.com/harsiddh-11/Fake_News_Detector)
 
 
 
