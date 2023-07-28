@@ -2,10 +2,16 @@
 
 ---
 
-### 
+### Predicting Credit Card Defaulter Using Naive-Bayes and XG boost
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Flask web app which helps to identify whether the customer is going to default on the credit card payment. It takes a CSV file as input and contains personal information about the customer's previous loan payment history. Prediction done by implementing k-mean clustering and classifer ML algorithm to build effiecient model.
+#### Key note:
+* defining value of k using elbow plot and silhoutte score
+* Performed gridsearchCV for tuning hyperparameter.
+#### Data Visualisation
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Flask-white?logo=Flask)](#)   
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
