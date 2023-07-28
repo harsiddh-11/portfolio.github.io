@@ -24,23 +24,22 @@ Text cleansing and preprocessing and BERT Model. F1 Score is used to measure the
 #### Key Takeaway:
 * performing word embedding to simplify text preprocessing and improve vocabulary coverge.
 * Visualizing unigram, bigram and trigram to identify the similarities in pattern of train and test dataset.
-<img src="images/dist-1.png?raw=true"/>
+#### Applied Skills
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/NLP-white?logo=NLP)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#) [![](https://img.shields.io/badge/matplotlib-seaborn-white)](#)    
+[View code on github](https://github.com/harsiddh-11/creditcarddefaultermodel)
 
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Work Experience
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+#### Having 1+ years of experience as an Associate Data Analyst at Salesintel.io
+SalesIntel is a product based company provide B2B services to achieve the desire insights and requirement of business and organization.
+##### My responsibilities include:
+* Performing data validation, validating data duplicity and modifying data accordingly by implementing the RegExp formula and functions using Microsoft Excel.
+* With the help of the development team, scrapping net new data values matches the client's request and implementing data cleansing, validating and data manipulation using regular expression functions, joins and creating functions for analytical purposes using Advance SQL. 
+* Data Enrichment: Enhancing and improving the quality of the client's data by validating it with the help of the research department and performing data mapping by matching it with the company's database implement joins and RegExp function in SQL.
+* Recognized for improving client satisfaction and client interaction.
+  
 ---
 
 
