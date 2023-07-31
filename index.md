@@ -6,7 +6,7 @@
 
 Flask web app which helps to identify whether the customer is going to default on the credit card payment. It takes a CSV file as input and contains personal information about the customer's previous loan payment history. Prediction done by implementing k-mean clustering and classifer ML algorithm to build effiecient model.
 #### Key Takeaway:
-* defining value of k using elbow plot and silhoutte score
+* defining value of k using elbow plot and silhouette score
 * Performed gridsearchCV for tuning hyperparameter.
 * Model evaulation done on the basis of roc_auc score and accuracy score.
 #### Applied Skills
