@@ -32,7 +32,7 @@ Text cleansing and preprocessing and BERT Model. F1 Score is used to measure the
 
 ### Work Experience
 
-#### Having 1+ years of experience as an Associate Data Analyst at Salesintel.io
+#### Having 1+ years of experience as an Associate Data Analyst at Astegic Infosoft
 SalesIntel is a product based company provide B2B services to achieve the desire insights and requirement of business and organization.
 ##### My responsibilities include:
 * Performing data validation, validating data duplicity and modifying data accordingly by implementing the RegExp formula and functions using Microsoft Excel.
